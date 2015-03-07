@@ -12,6 +12,22 @@
 p {
   display: block;
   width: 400px;
+  height: 300px;
   margin: 50px auto;
   font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+  background-color: #a19Fee;
+}
+
+div {
+    background:#98bf21;
+    height:100px;
+    width:100px;
+    position:absolute;
+    float:left;
+}
+h1,h2 {
+    font: Arial;
+    position: relative;
+    left: 100px;
+    top: 50px;
 }
